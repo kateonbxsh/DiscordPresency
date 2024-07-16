@@ -24,4 +24,6 @@ if (room == rmMenu){
 discord_update_presence(p);
 ```
 
-Documentation/Download Link: https://discord.gg/kjshzSwrsr
+## Documentation
+
+See page's [wiki](https://github.com/kateonbxsh/DiscordPresency/wiki)
